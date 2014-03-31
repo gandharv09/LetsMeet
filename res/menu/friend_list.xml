@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- Send Mail -->
+    <item android:id="@+id/meet"
+        android:orderInCategory="100"
+          android:icon="@drawable/users_icon"
+          android:title="Lets Meet"
+          android:showAsAction="always" />    
+
+</menu>
